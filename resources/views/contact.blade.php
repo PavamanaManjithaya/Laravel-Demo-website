@@ -24,3 +24,11 @@
 
      {!! Form::close() !!}
 @endsection
+@section('sidebar')
+<div class="card">
+   <div class="m-2">
+   <h3 class="card=title">Thanks..</h3>
+    <p class="card-text">We will updates the latest info to your mail..!!</p>
+   </div>
+</div>
+@endsection

@@ -9,5 +9,6 @@ Laravel strives to provide an amazing developer experience, while providing powe
 
 @section('sidebar')
     @parent
-    <p>This is appended to sidebar..</p>
+    <p>  </p>
+    <p>We will release the latest version...</p>
 @endsection
